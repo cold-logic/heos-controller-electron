@@ -1,6 +1,8 @@
 # Heos Controller
 Desktop controller for [Denon Heos](http://heosbydenon.denon.com) wifi speakers.
 
+⚠️ This project has been rebuilt and migrated to: https://github.com/cold-logic/heos-controller
+
 ## Screenshot
 
 ![](screenshot.png)
